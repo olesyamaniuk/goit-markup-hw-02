@@ -102,8 +102,9 @@ body {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11; /* 111.111% */
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 .team-list-item {
   background-color: #ffffff;
